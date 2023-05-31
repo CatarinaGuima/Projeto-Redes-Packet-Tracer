@@ -30,6 +30,6 @@ Para a implementação do ambiente de redes, deverão ser admitidas as seguintes
 ##
 
 <div align="center">
-<img src="https://github.com/CatarinaGuima/Projeto-Redes-Packet-Tracer/assets/110750750/b5af93d5-0e7d-400b-9036-e0df3917e960" />
+  ![projeto-cisco](https://github.com/CatarinaGuima/Projeto-Redes-Packet-Tracer/assets/110750750/de4ef7b6-fe51-4b81-b496-3becbbf11af8)
 </div>
 
