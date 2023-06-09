@@ -28,7 +28,6 @@ Para a implementação do ambiente de redes, deverão ser admitidas as seguintes
 </p>
 
 ##
-
    ![projeto-cisco](https://github.com/CatarinaGuima/Projeto-Redes-Packet-Tracer/assets/110750750/de4ef7b6-fe51-4b81-b496-3becbbf11af8.png)
-
-
+---
+⌨️ com ❤️ por [Catarina Guimarães](https://github.com/catarinaguima) 
